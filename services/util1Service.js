@@ -206,6 +206,9 @@ const sendStructure = async () => {
     console.error(`Error reading or processing data: ${error}`);
   }
 };
+const calc=(n,c)=>{
+  return Number(n.toFixed(c))  
+}
 module.exports = {
   loadModel,
   predict,
@@ -218,4 +221,5 @@ module.exports = {
   preprocessData,
   sendStructure,
   loadData,
+  calc
 };
