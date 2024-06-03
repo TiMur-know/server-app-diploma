@@ -5,5 +5,4 @@ const transportController=require('../controllers/transportController')
 
 router.get('/',transportController.getAllTransports)
 
-
 module.exports=router 

@@ -1,7 +1,9 @@
 const routeService =require('../services/routesService')
 const getAllRoutes = async (req, res) => {
   try {
-    const routes = await routeService.getRoutes();
+    const start = req.query.start ? parseInt(req.query.start) : undefined;
+    const end = req.query.end ? parseInt(req.query.end) : undefined;
+    const routes = await routeService.getRoutes({ start, end });
     res.status(200).json(routes);
   } catch (error) {
     console.error(error);

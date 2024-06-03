@@ -5,7 +5,8 @@
   "dependencies": {
     "@tensorflow/tfjs": "^4.17.0",
     "cors": "^2.8.5",
-    "express": "^4.19.1"
+    "express": "^4.19.1",
+    "tfjs-node-save": "^0.0.2"
   },
   "devDependencies": {
     "dotenv": "^16.4.5",

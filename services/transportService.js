@@ -3,32 +3,24 @@ const path =require('path')
 const tf = require('@tensorflow/tfjs');
 const dataFilePath=path.join(__dirname,'../data/data.json')
 
-const getAllTransports=async(filter={})=>{
-	try{
-		const data=await fs.readFile(dataFilePath,'utf-8')
-		let transports=JSON.parse(data).transports
+const getAllTransports = async (filter = {}) => {
+  try {
+    const data = await fs.readFile(dataFilePath, 'utf-8');
+    let transports = JSON.parse(data).transports;
 
-		if (filter) {
-      transports = transports.filter(transport => {
-        let match = true;
-        for (const key in filter) {
-          if (filter.hasOwnProperty(key)) {
-            if (transport[key] !== filter[key]) {
-              match = false;
-              break;
-            }
-          }
-        }
-        return match;
-      });
+    if (filter.start !== undefined && filter.end !== undefined) {
+      transports = transports.filter(
+        (transport) =>
+          transport.id >= filter.start && transport.id <= filter.end
+      );
     }
-		return transports;
-	}
-	catch(error){
-		console.error('Error reading bus data:', error);
+
+    return transports;
+  } catch (error) {
+    console.error('Error reading bus data:', error);
     throw new Error('Failed to retrieve bus data');
-	}
-}
+  }
+};
 const transportsWithRoutes = async () => {
   try {
     const data = await fs.readFile(dataFilePath, 'utf-8');
@@ -48,13 +40,30 @@ const transportsWithRoutes = async () => {
     throw new Error('Failed to retrieve transports with routes');
   }
 };
-
-module.exports = {
-  getAllTransports,
-  transportsWithRoutes
+const getTransportById = async (id) => {
+  try {
+    const data = await fs.readFile(dataFilePath, 'utf-8');
+    const transports = JSON.parse(data).transports;
+    return transports.find((transport) => transport.id === id);
+  } catch (error) {
+    console.error('Error reading transport data:', error);
+    throw new Error('Failed to retrieve transport data');
+  }
 };
 
-
-module.exports={
-	getAllTransports,transportsWithRoutes
-}
+const getRoutesByTransportId = async (id) => {
+  try {
+    const data = await fs.readFile(dataFilePath, 'utf-8');
+    const routes = JSON.parse(data).routes;
+    return routes.filter((route) => route.transport_id === parseInt(id));
+  } catch (error) {
+    console.error('Error reading route data:', error);
+    throw new Error('Failed to retrieve route data');
+  }
+};
+module.exports = {
+  getAllTransports,
+  transportsWithRoutes,
+  getTransportById,
+  getRoutesByTransportId
+};

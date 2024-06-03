@@ -312,13 +312,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekend",
       "passenger_count": 86,
-      "fare_amount_curency": "Hryvnia",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 47.36,
       "fuel_price_per_litter": 55.97,
       "transport_id": 4,
-      "fare_amount": 3299.98
+      "fare_amount": 109.99
     },
     {
       "route_id": 2,
@@ -330,13 +330,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekend",
       "passenger_count": 59,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 42.61,
       "fuel_price_per_litter": 24.06,
       "transport_id": 20,
-      "fare_amount": 1155.82
+      "fare_amount": 38.52
     },
     {
       "route_id": 3,
@@ -348,13 +348,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekday",
       "passenger_count": 74,
-      "fare_amount_curency": "Koruna",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 31.56,
       "fuel_price_per_litter": 31.27,
       "transport_id": 6,
-      "fare_amount": 1215.54
+      "fare_amount": 40.51
     },
     {
       "route_id": 4,
@@ -366,13 +366,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 24,
-      "fare_amount_curency": "Krona",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 27.73,
       "fuel_price_per_litter": 11.84,
       "transport_id": 7,
-      "fare_amount": 1321.92
+      "fare_amount": 44.06
     },
     {
       "route_id": 5,
@@ -384,13 +384,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekday",
       "passenger_count": 53,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 21.98,
       "fuel_price_per_litter": 54.06,
       "transport_id": 5,
-      "fare_amount": 869.26
+      "fare_amount": 28.97
     },
     {
       "route_id": 6,
@@ -402,13 +402,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 73,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 23.89,
       "fuel_price_per_litter": 26.98,
       "transport_id": 25,
-      "fare_amount": 699.22
+      "fare_amount": 23.3
     },
     {
       "route_id": 7,
@@ -420,13 +420,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekend",
       "passenger_count": 55,
-      "fare_amount_curency": "Krona",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 26.11,
       "fuel_price_per_litter": 20.59,
       "transport_id": 12,
-      "fare_amount": 1097.69
+      "fare_amount": 36.58
     },
     {
       "route_id": 8,
@@ -438,13 +438,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 94,
-      "fare_amount_curency": "Krona",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 44.19,
       "fuel_price_per_litter": 44.7,
       "transport_id": 12,
-      "fare_amount": 2756.68
+      "fare_amount": 91.88
     },
     {
       "route_id": 9,
@@ -456,13 +456,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 64,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 30.62,
       "fuel_price_per_litter": 46.13,
       "transport_id": 30,
-      "fare_amount": 2526.51
+      "fare_amount": 84.21
     },
     {
       "route_id": 10,
@@ -474,13 +474,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekday",
       "passenger_count": 63,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 15.94,
       "fuel_price_per_litter": 4.44,
       "transport_id": 30,
-      "fare_amount": 922.02
+      "fare_amount": 30.73
     },
     {
       "route_id": 11,
@@ -492,13 +492,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 39,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 7.58,
       "fuel_price_per_litter": 23.45,
       "transport_id": 6,
-      "fare_amount": 757.45
+      "fare_amount": 25.24
     },
     {
       "route_id": 12,
@@ -510,13 +510,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 89,
-      "fare_amount_curency": "Kuna",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 43.2,
       "fuel_price_per_litter": 58.13,
       "transport_id": 4,
-      "fare_amount": 3161.79
+      "fare_amount": 105.39
     },
     {
       "route_id": 13,
@@ -528,13 +528,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 78,
-      "fare_amount_curency": "Rupee",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 23.12,
       "fuel_price_per_litter": 2.54,
       "transport_id": 21,
-      "fare_amount": 976
+      "fare_amount": 32.53
     },
     {
       "route_id": 14,
@@ -546,13 +546,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 40,
-      "fare_amount_curency": "Shilling",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 6.27,
       "fuel_price_per_litter": 2.47,
       "transport_id": 27,
-      "fare_amount": 91.25
+      "fare_amount": 3.04
     },
     {
       "route_id": 15,
@@ -564,13 +564,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 61,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 33.03,
       "fuel_price_per_litter": 16.51,
       "transport_id": 1,
-      "fare_amount": 1517.36
+      "fare_amount": 50.57
     },
     {
       "route_id": 16,
@@ -582,13 +582,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 90,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 27.58,
       "fuel_price_per_litter": 44.71,
       "transport_id": 9,
-      "fare_amount": 2006.95
+      "fare_amount": 66.89
     },
     {
       "route_id": 17,
@@ -600,13 +600,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 14,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 31.16,
       "fuel_price_per_litter": 40.51,
       "transport_id": 6,
-      "fare_amount": 1371.47
+      "fare_amount": 45.71
     },
     {
       "route_id": 18,
@@ -618,13 +618,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 87,
-      "fare_amount_curency": "Yen",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 23.08,
       "fuel_price_per_litter": 48.34,
       "transport_id": 30,
-      "fare_amount": 2171.57
+      "fare_amount": 72.38
     },
     {
       "route_id": 19,
@@ -636,13 +636,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 26,
-      "fare_amount_curency": "Krona",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 25.71,
       "fuel_price_per_litter": 26.05,
       "transport_id": 10,
-      "fare_amount": 507.98
+      "fare_amount": 16.93
     },
     {
       "route_id": 20,
@@ -654,13 +654,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 54,
-      "fare_amount_curency": "Rupee",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 21.17,
       "fuel_price_per_litter": 11.13,
       "transport_id": 19,
-      "fare_amount": 1457.54
+      "fare_amount": 48.58
     },
     {
       "route_id": 21,
@@ -672,13 +672,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 50,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 19.32,
       "fuel_price_per_litter": 55.11,
       "transport_id": 12,
-      "fare_amount": 1705.95
+      "fare_amount": 56.86
     },
     {
       "route_id": 22,
@@ -690,13 +690,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 100,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 9.52,
       "fuel_price_per_litter": 12.6,
       "transport_id": 3,
-      "fare_amount": 931.05
+      "fare_amount": 31.03
     },
     {
       "route_id": 23,
@@ -708,13 +708,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 21,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 24.09,
       "fuel_price_per_litter": 32.94,
       "transport_id": 19,
-      "fare_amount": 2103.5
+      "fare_amount": 70.11
     },
     {
       "route_id": 24,
@@ -726,13 +726,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 26,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 43.74,
       "fuel_price_per_litter": 32.87,
       "transport_id": 29,
-      "fare_amount": 725.41
+      "fare_amount": 24.18
     },
     {
       "route_id": 25,
@@ -744,13 +744,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 40,
-      "fare_amount_curency": "Yen",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 30.49,
       "fuel_price_per_litter": 27.79,
       "transport_id": 15,
-      "fare_amount": 1700.78
+      "fare_amount": 56.69
     },
     {
       "route_id": 26,
@@ -762,13 +762,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 16,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 22.38,
       "fuel_price_per_litter": 52.52,
       "transport_id": 8,
-      "fare_amount": 2349.3
+      "fare_amount": 78.31
     },
     {
       "route_id": 27,
@@ -780,13 +780,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 87,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 47.2,
       "fuel_price_per_litter": 56.62,
       "transport_id": 21,
-      "fare_amount": 1698.52
+      "fare_amount": 56.61
     },
     {
       "route_id": 28,
@@ -798,13 +798,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 45,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 4.74,
       "fuel_price_per_litter": 29.83,
       "transport_id": 17,
-      "fare_amount": 502.8
+      "fare_amount": 16.76
     },
     {
       "route_id": 29,
@@ -816,13 +816,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 33,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 30.52,
       "fuel_price_per_litter": 20.69,
       "transport_id": 23,
-      "fare_amount": 826.65
+      "fare_amount": 27.55
     },
     {
       "route_id": 30,
@@ -834,13 +834,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 56,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 35.67,
       "fuel_price_per_litter": 43.2,
       "transport_id": 2,
-      "fare_amount": 1163.64
+      "fare_amount": 38.78
     },
     {
       "route_id": 31,
@@ -852,13 +852,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 48,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 34.01,
       "fuel_price_per_litter": 42.03,
       "transport_id": 16,
-      "fare_amount": 1054.08
+      "fare_amount": 35.13
     },
     {
       "route_id": 32,
@@ -870,13 +870,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 29,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 14.52,
       "fuel_price_per_litter": 55.19,
       "transport_id": 6,
-      "fare_amount": 1110.51
+      "fare_amount": 37.01
     },
     {
       "route_id": 33,
@@ -888,13 +888,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 95,
-      "fare_amount_curency": "Hryvnia",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 42.47,
       "fuel_price_per_litter": 24.11,
       "transport_id": 23,
-      "fare_amount": 1011.38
+      "fare_amount": 33.71
     },
     {
       "route_id": 34,
@@ -906,13 +906,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekend",
       "passenger_count": 71,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 1.84,
       "fuel_price_per_litter": 54.72,
       "transport_id": 6,
-      "fare_amount": 713.81
+      "fare_amount": 23.79
     },
     {
       "route_id": 35,
@@ -924,13 +924,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 68,
-      "fare_amount_curency": "Baht",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 8.66,
       "fuel_price_per_litter": 19.42,
       "transport_id": 26,
-      "fare_amount": 125.92
+      "fare_amount": 4.19
     },
     {
       "route_id": 36,
@@ -942,13 +942,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 10,
-      "fare_amount_curency": "Dinar",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 48.21,
       "fuel_price_per_litter": 34.28,
       "transport_id": 18,
-      "fare_amount": 1536.96
+      "fare_amount": 51.23
     },
     {
       "route_id": 37,
@@ -960,13 +960,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 41,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 22.58,
       "fuel_price_per_litter": 10.98,
       "transport_id": 10,
-      "fare_amount": 305.19
+      "fare_amount": 10.17
     },
     {
       "route_id": 38,
@@ -978,13 +978,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 47,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 36.51,
       "fuel_price_per_litter": 11.36,
       "transport_id": 19,
-      "fare_amount": 1664.94
+      "fare_amount": 55.49
     },
     {
       "route_id": 39,
@@ -996,13 +996,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 57,
-      "fare_amount_curency": "Rand",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 40.51,
       "fuel_price_per_litter": 57.5,
       "transport_id": 8,
-      "fare_amount": 3752.89
+      "fare_amount": 125.09
     },
     {
       "route_id": 40,
@@ -1014,13 +1014,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 66,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 16.08,
       "fuel_price_per_litter": 35.86,
       "transport_id": 19,
-      "fare_amount": 1852.37
+      "fare_amount": 61.74
     },
     {
       "route_id": 41,
@@ -1032,13 +1032,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 48,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 2.39,
       "fuel_price_per_litter": 56.75,
       "transport_id": 24,
-      "fare_amount": 674.86
+      "fare_amount": 22.49
     },
     {
       "route_id": 42,
@@ -1050,13 +1050,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 39,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 49.77,
       "fuel_price_per_litter": 7.18,
       "transport_id": 13,
-      "fare_amount": 310.93
+      "fare_amount": 10.36
     },
     {
       "route_id": 43,
@@ -1068,13 +1068,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 91,
-      "fare_amount_curency": "Lempira",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 47.42,
       "fuel_price_per_litter": 13.28,
       "transport_id": 12,
-      "fare_amount": 1204.01
+      "fare_amount": 40.13
     },
     {
       "route_id": 44,
@@ -1086,13 +1086,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 9,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 16.58,
       "fuel_price_per_litter": 19.9,
       "transport_id": 1,
-      "fare_amount": 1302.25
+      "fare_amount": 43.4
     },
     {
       "route_id": 45,
@@ -1104,13 +1104,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 85,
-      "fare_amount_curency": "Hryvnia",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 46.01,
       "fuel_price_per_litter": 59.48,
       "transport_id": 26,
-      "fare_amount": 279.18
+      "fare_amount": 9.3
     },
     {
       "route_id": 46,
@@ -1122,13 +1122,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 38,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 35.49,
       "fuel_price_per_litter": 31.7,
       "transport_id": 5,
-      "fare_amount": 833.46
+      "fare_amount": 27.78
     },
     {
       "route_id": 47,
@@ -1140,13 +1140,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 22,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 25.77,
       "fuel_price_per_litter": 30.73,
       "transport_id": 29,
-      "fare_amount": 408.6
+      "fare_amount": 13.62
     },
     {
       "route_id": 48,
@@ -1158,13 +1158,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 75,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 14.75,
       "fuel_price_per_litter": 23.16,
       "transport_id": 13,
-      "fare_amount": 310.68
+      "fare_amount": 10.35
     },
     {
       "route_id": 49,
@@ -1176,13 +1176,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 55,
-      "fare_amount_curency": "Gourde",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 44.97,
       "fuel_price_per_litter": 24.78,
       "transport_id": 5,
-      "fare_amount": 827.41
+      "fare_amount": 27.58
     },
     {
       "route_id": 50,
@@ -1194,13 +1194,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 92,
-      "fare_amount_curency": "Ariary",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 24.78,
       "fuel_price_per_litter": 13,
       "transport_id": 3,
-      "fare_amount": 1183.04
+      "fare_amount": 39.43
     },
     {
       "route_id": 51,
@@ -1212,13 +1212,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 54,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 28.69,
       "fuel_price_per_litter": 7.4,
       "transport_id": 5,
-      "fare_amount": 316.44
+      "fare_amount": 10.54
     },
     {
       "route_id": 52,
@@ -1230,13 +1230,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 1,
-      "fare_amount_curency": "Sol",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 1.17,
       "fuel_price_per_litter": 27.25,
       "transport_id": 7,
-      "fare_amount": 1083.25
+      "fare_amount": 36.1
     },
     {
       "route_id": 53,
@@ -1248,13 +1248,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 65,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 9.68,
       "fuel_price_per_litter": 2.64,
       "transport_id": 24,
-      "fare_amount": 668.57
+      "fare_amount": 22.28
     },
     {
       "route_id": 54,
@@ -1266,13 +1266,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 3,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 1.55,
       "fuel_price_per_litter": 56.9,
       "transport_id": 16,
-      "fare_amount": 799.75
+      "fare_amount": 26.65
     },
     {
       "route_id": 55,
@@ -1284,13 +1284,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 65,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 18.25,
       "fuel_price_per_litter": 21.36,
       "transport_id": 30,
-      "fare_amount": 1303.55
+      "fare_amount": 43.45
     },
     {
       "route_id": 56,
@@ -1302,13 +1302,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 84,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 38.86,
       "fuel_price_per_litter": 40.75,
       "transport_id": 16,
-      "fare_amount": 1083.3
+      "fare_amount": 36.11
     },
     {
       "route_id": 57,
@@ -1320,13 +1320,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 85,
-      "fare_amount_curency": "Rand",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 43,
       "fuel_price_per_litter": 42.54,
       "transport_id": 1,
-      "fare_amount": 2799.62
+      "fare_amount": 93.32
     },
     {
       "route_id": 58,
@@ -1338,13 +1338,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekday",
       "passenger_count": 1,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 13.43,
       "fuel_price_per_litter": 41.62,
       "transport_id": 23,
-      "fare_amount": 792.53
+      "fare_amount": 26.41
     },
     {
       "route_id": 59,
@@ -1356,13 +1356,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 68,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 35.11,
       "fuel_price_per_litter": 1.55,
       "transport_id": 12,
-      "fare_amount": 540.13
+      "fare_amount": 18
     },
     {
       "route_id": 60,
@@ -1374,13 +1374,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 49,
-      "fare_amount_curency": "Bolivar",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 3.94,
       "fuel_price_per_litter": 39.89,
       "transport_id": 11,
-      "fare_amount": 688.53
+      "fare_amount": 22.95
     },
     {
       "route_id": 61,
@@ -1392,13 +1392,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 71,
-      "fare_amount_curency": "Dinar",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 37.2,
       "fuel_price_per_litter": 19.73,
       "transport_id": 4,
-      "fare_amount": 1401.57
+      "fare_amount": 46.71
     },
     {
       "route_id": 62,
@@ -1410,13 +1410,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 39,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 0.79,
       "fuel_price_per_litter": 15.47,
       "transport_id": 9,
-      "fare_amount": 806.44
+      "fare_amount": 26.88
     },
     {
       "route_id": 63,
@@ -1428,13 +1428,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 96,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 47.35,
       "fuel_price_per_litter": 15.72,
       "transport_id": 4,
-      "fare_amount": 1411.86
+      "fare_amount": 47.06
     },
     {
       "route_id": 64,
@@ -1446,13 +1446,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 66,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 41.37,
       "fuel_price_per_litter": 1.81,
       "transport_id": 3,
-      "fare_amount": 874.88
+      "fare_amount": 29.16
     },
     {
       "route_id": 65,
@@ -1464,13 +1464,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 63,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 8.99,
       "fuel_price_per_litter": 16.19,
       "transport_id": 23,
-      "fare_amount": 597.95
+      "fare_amount": 19.93
     },
     {
       "route_id": 66,
@@ -1482,13 +1482,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 69,
-      "fare_amount_curency": "Denar",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 36.73,
       "fuel_price_per_litter": 52.41,
       "transport_id": 6,
-      "fare_amount": 1746.67
+      "fare_amount": 58.22
     },
     {
       "route_id": 67,
@@ -1500,13 +1500,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 17,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 39.13,
       "fuel_price_per_litter": 5.42,
       "transport_id": 4,
-      "fare_amount": 884.7
+      "fare_amount": 29.49
     },
     {
       "route_id": 68,
@@ -1518,13 +1518,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 37,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 47.83,
       "fuel_price_per_litter": 5.24,
       "transport_id": 20,
-      "fare_amount": 499.1
+      "fare_amount": 16.63
     },
     {
       "route_id": 69,
@@ -1536,13 +1536,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 54,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 37.16,
       "fuel_price_per_litter": 57.01,
       "transport_id": 24,
-      "fare_amount": 788.1
+      "fare_amount": 26.27
     },
     {
       "route_id": 70,
@@ -1554,13 +1554,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 92,
-      "fare_amount_curency": "Bolivar",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 17.63,
       "fuel_price_per_litter": 43.72,
       "transport_id": 11,
-      "fare_amount": 1320.09
+      "fare_amount": 44
     },
     {
       "route_id": 71,
@@ -1572,13 +1572,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekend",
       "passenger_count": 71,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 8.52,
       "fuel_price_per_litter": 45.95,
       "transport_id": 19,
-      "fare_amount": 1638.01
+      "fare_amount": 54.6
     },
     {
       "route_id": 72,
@@ -1590,13 +1590,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 62,
-      "fare_amount_curency": "Rupee",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 11.01,
       "fuel_price_per_litter": 46.23,
       "transport_id": 26,
-      "fare_amount": 146.26
+      "fare_amount": 4.87
     },
     {
       "route_id": 73,
@@ -1608,13 +1608,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 53,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 24.11,
       "fuel_price_per_litter": 36.26,
       "transport_id": 19,
-      "fare_amount": 2196.94
+      "fare_amount": 73.23
     },
     {
       "route_id": 74,
@@ -1626,13 +1626,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 44,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 20.23,
       "fuel_price_per_litter": 24.93,
       "transport_id": 16,
-      "fare_amount": 878.66
+      "fare_amount": 29.28
     },
     {
       "route_id": 75,
@@ -1644,13 +1644,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 41,
-      "fare_amount_curency": "Hryvnia",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 4.19,
       "fuel_price_per_litter": 4.14,
       "transport_id": 9,
-      "fare_amount": 811.48
+      "fare_amount": 27.04
     },
     {
       "route_id": 76,
@@ -1662,13 +1662,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 18,
-      "fare_amount_curency": "Koruna",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 14.87,
       "fuel_price_per_litter": 59.47,
       "transport_id": 21,
-      "fare_amount": 1204.22
+      "fare_amount": 40.14
     },
     {
       "route_id": 77,
@@ -1680,13 +1680,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 51,
-      "fare_amount_curency": "Rand",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 36.98,
       "fuel_price_per_litter": 6.76,
       "transport_id": 26,
-      "fare_amount": 130.81
+      "fare_amount": 4.36
     },
     {
       "route_id": 78,
@@ -1698,13 +1698,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 42,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 30.8,
       "fuel_price_per_litter": 43.93,
       "transport_id": 30,
-      "fare_amount": 2455.41
+      "fare_amount": 81.84
     },
     {
       "route_id": 79,
@@ -1716,13 +1716,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 82,
-      "fare_amount_curency": "Krona",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 2.71,
       "fuel_price_per_litter": 20.37,
       "transport_id": 8,
-      "fare_amount": 986.75
+      "fare_amount": 32.89
     },
     {
       "route_id": 80,
@@ -1734,13 +1734,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 20,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 15.69,
       "fuel_price_per_litter": 43.16,
       "transport_id": 16,
-      "fare_amount": 911.43
+      "fare_amount": 30.38
     },
     {
       "route_id": 81,
@@ -1752,13 +1752,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 33,
-      "fare_amount_curency": "Rupee",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 16.86,
       "fuel_price_per_litter": 30.51,
       "transport_id": 23,
-      "fare_amount": 771.56
+      "fare_amount": 25.71
     },
     {
       "route_id": 82,
@@ -1770,13 +1770,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekday",
       "passenger_count": 86,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 23.38,
       "fuel_price_per_litter": 3.85,
       "transport_id": 26,
-      "fare_amount": 121.26
+      "fare_amount": 4.04
     },
     {
       "route_id": 83,
@@ -1788,13 +1788,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekend",
       "passenger_count": 33,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 47.92,
       "fuel_price_per_litter": 56.86,
       "transport_id": 16,
-      "fare_amount": 1299.69
+      "fare_amount": 43.32
     },
     {
       "route_id": 84,
@@ -1806,13 +1806,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekend",
       "passenger_count": 73,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 8.02,
       "fuel_price_per_litter": 29.57,
       "transport_id": 15,
-      "fare_amount": 1176.59
+      "fare_amount": 39.21
     },
     {
       "route_id": 85,
@@ -1824,13 +1824,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 60,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 27.63,
       "fuel_price_per_litter": 57.16,
       "transport_id": 1,
-      "fare_amount": 2550.05
+      "fare_amount": 85
     },
     {
       "route_id": 86,
@@ -1842,13 +1842,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekend",
       "passenger_count": 11,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 36.93,
       "fuel_price_per_litter": 12.59,
       "transport_id": 18,
-      "fare_amount": 1140.75
+      "fare_amount": 38.02
     },
     {
       "route_id": 87,
@@ -1860,13 +1860,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 51,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 35,
       "fuel_price_per_litter": 39.84,
       "transport_id": 21,
-      "fare_amount": 1345.22
+      "fare_amount": 44.84
     },
     {
       "route_id": 88,
@@ -1878,13 +1878,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 42,
-      "fare_amount_curency": "Euro  ",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 13.18,
       "fuel_price_per_litter": 31.67,
       "transport_id": 7,
-      "fare_amount": 1393.65
+      "fare_amount": 46.45
     },
     {
       "route_id": 89,
@@ -1896,13 +1896,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 48,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 31.12,
       "fuel_price_per_litter": 18.21,
       "transport_id": 27,
-      "fare_amount": 727.39
+      "fare_amount": 24.24
     },
     {
       "route_id": 90,
@@ -1914,13 +1914,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 81,
-      "fare_amount_curency": "Dong",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 20.2,
       "fuel_price_per_litter": 51.57,
       "transport_id": 29,
-      "fare_amount": 531.14
+      "fare_amount": 17.7
     },
     {
       "route_id": 91,
@@ -1932,13 +1932,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 74,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 25.44,
       "fuel_price_per_litter": 1.3,
       "transport_id": 25,
-      "fare_amount": 74.05
+      "fare_amount": 2.46
     },
     {
       "route_id": 92,
@@ -1950,13 +1950,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 47,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 19.34,
       "fuel_price_per_litter": 20.42,
       "transport_id": 9,
-      "fare_amount": 1182.76
+      "fare_amount": 39.42
     },
     {
       "route_id": 93,
@@ -1968,13 +1968,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 58,
-      "fare_amount_curency": "Lari",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 21.12,
       "fuel_price_per_litter": 25.36,
       "transport_id": 13,
-      "fare_amount": 313.86
+      "fare_amount": 10.46
     },
     {
       "route_id": 94,
@@ -1986,13 +1986,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekend",
       "passenger_count": 40,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 5.14,
       "fuel_price_per_litter": 56.27,
       "transport_id": 8,
-      "fare_amount": 1271.41
+      "fare_amount": 42.38
     },
     {
       "route_id": 95,
@@ -2004,13 +2004,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekday",
       "passenger_count": 41,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 46.28,
       "fuel_price_per_litter": 35.32,
       "transport_id": 16,
-      "fare_amount": 1092.98
+      "fare_amount": 36.43
     },
     {
       "route_id": 96,
@@ -2022,13 +2022,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 87,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 41.27,
       "fuel_price_per_litter": 58.73,
       "transport_id": 8,
-      "fare_amount": 3867.79
+      "fare_amount": 128.92
     },
     {
       "route_id": 97,
@@ -2040,13 +2040,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 69,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 8.83,
       "fuel_price_per_litter": 42.44,
       "transport_id": 24,
-      "fare_amount": 688.51
+      "fare_amount": 22.95
     },
     {
       "route_id": 98,
@@ -2058,13 +2058,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 19,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 28.35,
       "fuel_price_per_litter": 29.57,
       "transport_id": 4,
-      "fare_amount": 1504.92
+      "fare_amount": 50.16
     },
     {
       "route_id": 99,
@@ -2076,13 +2076,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 58,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 40.01,
       "fuel_price_per_litter": 5.93,
       "transport_id": 21,
-      "fare_amount": 1025.35
+      "fare_amount": 34.17
     },
     {
       "route_id": 100,
@@ -2094,13 +2094,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 45,
-      "fare_amount_curency": "Pound",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 24.49,
       "fuel_price_per_litter": 17.3,
       "transport_id": 25,
-      "fare_amount": 473.4
+      "fare_amount": 15.78
     },
     {
       "route_id": 101,
@@ -2112,13 +2112,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 52,
-      "fare_amount_curency": "Yen",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 3.85,
       "fuel_price_per_litter": 9,
       "transport_id": 17,
-      "fare_amount": 494.8
+      "fare_amount": 16.49
     },
     {
       "route_id": 102,
@@ -2130,13 +2130,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekday",
       "passenger_count": 72,
-      "fare_amount_curency": "Baht",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 28.74,
       "fuel_price_per_litter": 34.95,
       "transport_id": 5,
-      "fare_amount": 765.16
+      "fare_amount": 25.5
     },
     {
       "route_id": 103,
@@ -2148,13 +2148,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 39,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 21.37,
       "fuel_price_per_litter": 1.58,
       "transport_id": 17,
-      "fare_amount": 494.73
+      "fare_amount": 16.49
     },
     {
       "route_id": 104,
@@ -2166,13 +2166,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 59,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 45.52,
       "fuel_price_per_litter": 24.38,
       "transport_id": 13,
-      "fare_amount": 323.28
+      "fare_amount": 10.77
     },
     {
       "route_id": 105,
@@ -2184,13 +2184,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 67,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 38.02,
       "fuel_price_per_litter": 44.4,
       "transport_id": 7,
-      "fare_amount": 2416.71
+      "fare_amount": 80.55
     },
     {
       "route_id": 106,
@@ -2202,13 +2202,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 23,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 44.66,
       "fuel_price_per_litter": 49.25,
       "transport_id": 21,
-      "fare_amount": 1567.78
+      "fare_amount": 52.25
     },
     {
       "route_id": 107,
@@ -2220,13 +2220,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekend",
       "passenger_count": 46,
-      "fare_amount_curency": "Franc",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 45.67,
       "fuel_price_per_litter": 30.05,
       "transport_id": 15,
-      "fare_amount": 2151.85
+      "fare_amount": 71.72
     },
     {
       "route_id": 108,
@@ -2238,13 +2238,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 53,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 28.23,
       "fuel_price_per_litter": 23.48,
       "transport_id": 26,
-      "fare_amount": 155.44
+      "fare_amount": 5.18
     },
     {
       "route_id": 109,
@@ -2256,13 +2256,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 11,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 25.72,
       "fuel_price_per_litter": 46.2,
       "transport_id": 2,
-      "fare_amount": 915
+      "fare_amount": 30.5
     },
     {
       "route_id": 110,
@@ -2274,13 +2274,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 60,
-      "fare_amount_curency": "Franc",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 40.91,
       "fuel_price_per_litter": 14.59,
       "transport_id": 12,
-      "fare_amount": 1166.09
+      "fare_amount": 38.86
     },
     {
       "route_id": 111,
@@ -2292,13 +2292,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 32,
-      "fare_amount_curency": "Denar",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 39.48,
       "fuel_price_per_litter": 35.65,
       "transport_id": 17,
-      "fare_amount": 597.68
+      "fare_amount": 19.92
     },
     {
       "route_id": 112,
@@ -2310,13 +2310,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 99,
-      "fare_amount_curency": "Hryvnia",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 14.35,
       "fuel_price_per_litter": 50.12,
       "transport_id": 25,
-      "fare_amount": 775.56
+      "fare_amount": 25.85
     },
     {
       "route_id": 113,
@@ -2328,13 +2328,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 80,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 30.94,
       "fuel_price_per_litter": 2.38,
       "transport_id": 6,
-      "fare_amount": 698.5
+      "fare_amount": 23.28
     },
     {
       "route_id": 114,
@@ -2346,13 +2346,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 17,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 29.95,
       "fuel_price_per_litter": 20.86,
       "transport_id": 19,
-      "fare_amount": 1908.09
+      "fare_amount": 63.6
     },
     {
       "route_id": 115,
@@ -2364,13 +2364,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 55,
-      "fare_amount_curency": "Som",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 6.81,
       "fuel_price_per_litter": 38.35,
       "transport_id": 1,
-      "fare_amount": 1233.56
+      "fare_amount": 41.11
     },
     {
       "route_id": 116,
@@ -2382,13 +2382,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 15,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 18.77,
       "fuel_price_per_litter": 37.45,
       "transport_id": 3,
-      "fare_amount": 1657.63
+      "fare_amount": 55.25
     },
     {
       "route_id": 117,
@@ -2400,13 +2400,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 71,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 34.43,
       "fuel_price_per_litter": 57.76,
       "transport_id": 15,
-      "fare_amount": 2681.3
+      "fare_amount": 89.37
     },
     {
       "route_id": 118,
@@ -2418,13 +2418,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 7,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 5.55,
       "fuel_price_per_litter": 45.83,
       "transport_id": 13,
-      "fare_amount": 309.24
+      "fare_amount": 10.3
     },
     {
       "route_id": 119,
@@ -2436,13 +2436,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 33,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 28.36,
       "fuel_price_per_litter": 8.06,
       "transport_id": 22,
-      "fare_amount": 281.79
+      "fare_amount": 9.39
     },
     {
       "route_id": 120,
@@ -2454,13 +2454,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 18,
-      "fare_amount_curency": "Leu",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 21.46,
       "fuel_price_per_litter": 9.31,
       "transport_id": 17,
-      "fare_amount": 507.17
+      "fare_amount": 16.9
     },
     {
       "route_id": 121,
@@ -2472,13 +2472,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 85,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 29.3,
       "fuel_price_per_litter": 48.79,
       "transport_id": 2,
-      "fare_amount": 1085.11
+      "fare_amount": 36.17
     },
     {
       "route_id": 122,
@@ -2490,13 +2490,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 84,
-      "fare_amount_curency": "Koruna",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 34.33,
       "fuel_price_per_litter": 7.88,
       "transport_id": 30,
-      "fare_amount": 1160.89
+      "fare_amount": 38.69
     },
     {
       "route_id": 123,
@@ -2508,13 +2508,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 58,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 23.48,
       "fuel_price_per_litter": 20.9,
       "transport_id": 22,
-      "fare_amount": 545.48
+      "fare_amount": 18.18
     },
     {
       "route_id": 124,
@@ -2526,13 +2526,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 27,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 1.15,
       "fuel_price_per_litter": 31.6,
       "transport_id": 24,
-      "fare_amount": 669.18
+      "fare_amount": 22.3
     },
     {
       "route_id": 125,
@@ -2544,13 +2544,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 3,
-      "fare_amount_curency": "Bolivar",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 11.49,
       "fuel_price_per_litter": 22.05,
       "transport_id": 25,
-      "fare_amount": 299.27
+      "fare_amount": 9.97
     },
     {
       "route_id": 126,
@@ -2562,13 +2562,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 26,
-      "fare_amount_curency": "Rand",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 30.18,
       "fuel_price_per_litter": 1.89,
       "transport_id": 14,
-      "fare_amount": 524.99
+      "fare_amount": 17.49
     },
     {
       "route_id": 127,
@@ -2580,13 +2580,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 63,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 16.48,
       "fuel_price_per_litter": 49.2,
       "transport_id": 1,
-      "fare_amount": 1782.51
+      "fare_amount": 59.41
     },
     {
       "route_id": 128,
@@ -2598,13 +2598,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekend",
       "passenger_count": 63,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 31.85,
       "fuel_price_per_litter": 44.56,
       "transport_id": 6,
-      "fare_amount": 1460.32
+      "fare_amount": 48.67
     },
     {
       "route_id": 129,
@@ -2616,13 +2616,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 15,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 10.46,
       "fuel_price_per_litter": 55.02,
       "transport_id": 29,
-      "fare_amount": 302.45
+      "fare_amount": 10.08
     },
     {
       "route_id": 130,
@@ -2634,13 +2634,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 88,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 0.72,
       "fuel_price_per_litter": 8.47,
       "transport_id": 12,
-      "fare_amount": 484.37
+      "fare_amount": 16.14
     },
     {
       "route_id": 131,
@@ -2652,13 +2652,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 65,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 2.62,
       "fuel_price_per_litter": 36.81,
       "transport_id": 9,
-      "fare_amount": 889.26
+      "fare_amount": 29.64
     },
     {
       "route_id": 132,
@@ -2670,13 +2670,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 78,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 8.08,
       "fuel_price_per_litter": 48.05,
       "transport_id": 20,
-      "fare_amount": 615.78
+      "fare_amount": 20.52
     },
     {
       "route_id": 133,
@@ -2688,13 +2688,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekend",
       "passenger_count": 15,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 20.26,
       "fuel_price_per_litter": 55.46,
       "transport_id": 20,
-      "fare_amount": 1239.26
+      "fare_amount": 41.3
     },
     {
       "route_id": 134,
@@ -2706,13 +2706,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 8,
-      "fare_amount_curency": "Pula",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 5.84,
       "fuel_price_per_litter": 21.55,
       "transport_id": 10,
-      "fare_amount": 246.51
+      "fare_amount": 8.21
     },
     {
       "route_id": 135,
@@ -2724,13 +2724,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekday",
       "passenger_count": 4,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 33.55,
       "fuel_price_per_litter": 39.4,
       "transport_id": 21,
-      "fare_amount": 1325.17
+      "fare_amount": 44.17
     },
     {
       "route_id": 136,
@@ -2742,13 +2742,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 34,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 43.43,
       "fuel_price_per_litter": 33.05,
       "transport_id": 10,
-      "fare_amount": 876.03
+      "fare_amount": 29.2
     },
     {
       "route_id": 137,
@@ -2760,13 +2760,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 25,
-      "fare_amount_curency": "Naira",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 30.68,
       "fuel_price_per_litter": 19.59,
       "transport_id": 29,
-      "fare_amount": 314.96
+      "fare_amount": 10.49
     },
     {
       "route_id": 138,
@@ -2778,13 +2778,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 39,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 34.34,
       "fuel_price_per_litter": 49.93,
       "transport_id": 16,
-      "fare_amount": 1108.15
+      "fare_amount": 36.93
     },
     {
       "route_id": 139,
@@ -2796,13 +2796,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 6,
-      "fare_amount_curency": "Hryvnia",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 48.87,
       "fuel_price_per_litter": 18.05,
       "transport_id": 18,
-      "fare_amount": 1279.91
+      "fare_amount": 42.66
     },
     {
       "route_id": 140,
@@ -2814,13 +2814,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 88,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 21.9,
       "fuel_price_per_litter": 23.53,
       "transport_id": 21,
-      "fare_amount": 1102.21
+      "fare_amount": 36.74
     },
     {
       "route_id": 141,
@@ -2832,13 +2832,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 85,
-      "fare_amount_curency": "Yen",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 37.53,
       "fuel_price_per_litter": 20.42,
       "transport_id": 3,
-      "fare_amount": 1736.67
+      "fare_amount": 57.88
     },
     {
       "route_id": 142,
@@ -2850,13 +2850,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 4,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 41.57,
       "fuel_price_per_litter": 48.85,
       "transport_id": 5,
-      "fare_amount": 1346.48
+      "fare_amount": 44.88
     },
     {
       "route_id": 143,
@@ -2868,13 +2868,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 29,
-      "fare_amount_curency": "Boliviano",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 37.98,
       "fuel_price_per_litter": 53.51,
       "transport_id": 18,
-      "fare_amount": 1663.61
+      "fare_amount": 55.45
     },
     {
       "route_id": 144,
@@ -2886,13 +2886,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 84,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 34.31,
       "fuel_price_per_litter": 23.48,
       "transport_id": 21,
-      "fare_amount": 1182.46
+      "fare_amount": 39.41
     },
     {
       "route_id": 145,
@@ -2904,13 +2904,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 23,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 40.06,
       "fuel_price_per_litter": 59.24,
       "transport_id": 23,
-      "fare_amount": 1646.4
+      "fare_amount": 54.88
     },
     {
       "route_id": 146,
@@ -2922,13 +2922,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 42,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 31.85,
       "fuel_price_per_litter": 21.94,
       "transport_id": 28,
-      "fare_amount": 319.42
+      "fare_amount": 10.64
     },
     {
       "route_id": 147,
@@ -2940,13 +2940,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 35,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 18.11,
       "fuel_price_per_litter": 41.05,
       "transport_id": 4,
-      "fare_amount": 1410.94
+      "fare_amount": 47.03
     },
     {
       "route_id": 148,
@@ -2958,13 +2958,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 34,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 17.62,
       "fuel_price_per_litter": 14.78,
       "transport_id": 9,
-      "fare_amount": 1050.5
+      "fare_amount": 35.01
     },
     {
       "route_id": 149,
@@ -2976,13 +2976,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 73,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 42.76,
       "fuel_price_per_litter": 57.32,
       "transport_id": 25,
-      "fare_amount": 2546.11
+      "fare_amount": 84.87
     },
     {
       "route_id": 150,
@@ -2994,13 +2994,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 74,
-      "fare_amount_curency": "Kuna",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 15.13,
       "fuel_price_per_litter": 33.45,
       "transport_id": 7,
-      "fare_amount": 1465.06
+      "fare_amount": 48.83
     },
     {
       "route_id": 151,
@@ -3012,13 +3012,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 64,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 6.17,
       "fuel_price_per_litter": 15.65,
       "transport_id": 28,
-      "fare_amount": 61.34
+      "fare_amount": 2.04
     },
     {
       "route_id": 152,
@@ -3030,13 +3030,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 4,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 38.36,
       "fuel_price_per_litter": 6.49,
       "transport_id": 4,
-      "fare_amount": 921.22
+      "fare_amount": 30.7
     },
     {
       "route_id": 153,
@@ -3048,13 +3048,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 42,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 46.91,
       "fuel_price_per_litter": 53.81,
       "transport_id": 29,
-      "fare_amount": 1258.39
+      "fare_amount": 41.94
     },
     {
       "route_id": 154,
@@ -3066,13 +3066,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 54,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 5.62,
       "fuel_price_per_litter": 31.62,
       "transport_id": 15,
-      "fare_amount": 1125.52
+      "fare_amount": 37.51
     },
     {
       "route_id": 155,
@@ -3084,13 +3084,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 10,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 15.91,
       "fuel_price_per_litter": 27.02,
       "transport_id": 1,
-      "fare_amount": 1402.07
+      "fare_amount": 46.73
     },
     {
       "route_id": 156,
@@ -3102,13 +3102,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 78,
-      "fare_amount_curency": "Colon",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 48.33,
       "fuel_price_per_litter": 7.07,
       "transport_id": 16,
-      "fare_amount": 847.82
+      "fare_amount": 28.26
     },
     {
       "route_id": 157,
@@ -3120,13 +3120,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekend",
       "passenger_count": 18,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 46.56,
       "fuel_price_per_litter": 51.63,
       "transport_id": 11,
-      "fare_amount": 3000.94
+      "fare_amount": 100.03
     },
     {
       "route_id": 158,
@@ -3138,13 +3138,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 41,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 16.95,
       "fuel_price_per_litter": 23.55,
       "transport_id": 22,
-      "fare_amount": 453.38
+      "fare_amount": 15.11
     },
     {
       "route_id": 159,
@@ -3156,13 +3156,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 97,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 48.61,
       "fuel_price_per_litter": 21.11,
       "transport_id": 20,
-      "fare_amount": 1156.63
+      "fare_amount": 38.55
     },
     {
       "route_id": 160,
@@ -3174,13 +3174,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 34,
-      "fare_amount_curency": "Kyat",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 9.04,
       "fuel_price_per_litter": 52.8,
       "transport_id": 11,
-      "fare_amount": 1018.04
+      "fare_amount": 33.93
     },
     {
       "route_id": 161,
@@ -3192,13 +3192,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 18,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 12.81,
       "fuel_price_per_litter": 41.06,
       "transport_id": 30,
-      "fare_amount": 1466.37
+      "fare_amount": 48.87
     },
     {
       "route_id": 162,
@@ -3210,13 +3210,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekday",
       "passenger_count": 12,
-      "fare_amount_curency": "Shilling",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 33.96,
       "fuel_price_per_litter": 47.18,
       "transport_id": 16,
-      "fare_amount": 1086.84
+      "fare_amount": 36.22
     },
     {
       "route_id": 163,
@@ -3228,13 +3228,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 65,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 45.98,
       "fuel_price_per_litter": 33.71,
       "transport_id": 29,
-      "fare_amount": 780.47
+      "fare_amount": 26.01
     },
     {
       "route_id": 164,
@@ -3246,13 +3246,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 61,
-      "fare_amount_curency": "Lek",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 36.87,
       "fuel_price_per_litter": 46.07,
       "transport_id": 8,
-      "fare_amount": 2985.71
+      "fare_amount": 99.52
     },
     {
       "route_id": 165,
@@ -3264,13 +3264,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 73,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 25.57,
       "fuel_price_per_litter": 6.86,
       "transport_id": 22,
-      "fare_amount": 228.31
+      "fare_amount": 7.61
     },
     {
       "route_id": 166,
@@ -3282,13 +3282,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 25,
-      "fare_amount_curency": "Quetzal",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 7.68,
       "fuel_price_per_litter": 27.6,
       "transport_id": 25,
-      "fare_amount": 256.95
+      "fare_amount": 8.56
     },
     {
       "route_id": 167,
@@ -3300,13 +3300,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekend",
       "passenger_count": 87,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 19.27,
       "fuel_price_per_litter": 42.5,
       "transport_id": 6,
-      "fare_amount": 1120.48
+      "fare_amount": 37.34
     },
     {
       "route_id": 168,
@@ -3318,13 +3318,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 81,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 46.03,
       "fuel_price_per_litter": 5.13,
       "transport_id": 14,
-      "fare_amount": 668.76
+      "fare_amount": 22.29
     },
     {
       "route_id": 169,
@@ -3336,13 +3336,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 32,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 14.18,
       "fuel_price_per_litter": 42.48,
       "transport_id": 26,
-      "fare_amount": 151.83
+      "fare_amount": 5.06
     },
     {
       "route_id": 170,
@@ -3354,13 +3354,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekend",
       "passenger_count": 57,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 6.68,
       "fuel_price_per_litter": 13.01,
       "transport_id": 28,
-      "fare_amount": 57.2
+      "fare_amount": 1.9
     },
     {
       "route_id": 171,
@@ -3372,13 +3372,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekend",
       "passenger_count": 3,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 44.69,
       "fuel_price_per_litter": 18.94,
       "transport_id": 27,
-      "fare_amount": 1050.23
+      "fare_amount": 35
     },
     {
       "route_id": 172,
@@ -3390,13 +3390,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 67,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 42.22,
       "fuel_price_per_litter": 11.24,
       "transport_id": 19,
-      "fare_amount": 1734.18
+      "fare_amount": 57.8
     },
     {
       "route_id": 173,
@@ -3408,13 +3408,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 86,
-      "fare_amount_curency": "Dram",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 3.79,
       "fuel_price_per_litter": 34.86,
       "transport_id": 5,
-      "fare_amount": 271.01
+      "fare_amount": 9.03
     },
     {
       "route_id": 174,
@@ -3426,13 +3426,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 12,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 0.8,
       "fuel_price_per_litter": 34.61,
       "transport_id": 19,
-      "fare_amount": 1216.78
+      "fare_amount": 40.55
     },
     {
       "route_id": 175,
@@ -3444,13 +3444,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 35,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 18.5,
       "fuel_price_per_litter": 19.98,
       "transport_id": 11,
-      "fare_amount": 907.21
+      "fare_amount": 30.24
     },
     {
       "route_id": 176,
@@ -3462,13 +3462,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 67,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 49.82,
       "fuel_price_per_litter": 41.85,
       "transport_id": 9,
-      "fare_amount": 2844.6
+      "fare_amount": 94.82
     },
     {
       "route_id": 177,
@@ -3480,13 +3480,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 22,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 35.26,
       "fuel_price_per_litter": 3.13,
       "transport_id": 29,
-      "fare_amount": 74.27
+      "fare_amount": 2.47
     },
     {
       "route_id": 178,
@@ -3498,13 +3498,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 32,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 46.62,
       "fuel_price_per_litter": 47.21,
       "transport_id": 8,
-      "fare_amount": 3596.72
+      "fare_amount": 119.89
     },
     {
       "route_id": 179,
@@ -3516,13 +3516,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 34,
-      "fare_amount_curency": "Franc",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 38.5,
       "fuel_price_per_litter": 11.75,
       "transport_id": 12,
-      "fare_amount": 999.34
+      "fare_amount": 33.31
     },
     {
       "route_id": 180,
@@ -3534,13 +3534,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 55,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 35.02,
       "fuel_price_per_litter": 24,
       "transport_id": 6,
-      "fare_amount": 1132.65
+      "fare_amount": 37.75
     },
     {
       "route_id": 181,
@@ -3552,13 +3552,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 1,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 2.01,
       "fuel_price_per_litter": 22.06,
       "transport_id": 24,
-      "fare_amount": 669.64
+      "fare_amount": 22.32
     },
     {
       "route_id": 182,
@@ -3570,13 +3570,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 86,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 38.15,
       "fuel_price_per_litter": 12.21,
       "transport_id": 14,
-      "fare_amount": 853.13
+      "fare_amount": 28.43
     },
     {
       "route_id": 183,
@@ -3588,13 +3588,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 27,
-      "fare_amount_curency": "Shekel",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 17.72,
       "fuel_price_per_litter": 49,
       "transport_id": 25,
-      "fare_amount": 927.96
+      "fare_amount": 30.93
     },
     {
       "route_id": 184,
@@ -3606,13 +3606,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 91,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 35.92,
       "fuel_price_per_litter": 41.94,
       "transport_id": 5,
-      "fare_amount": 1049.54
+      "fare_amount": 34.98
     },
     {
       "route_id": 185,
@@ -3624,13 +3624,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 37,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 4.33,
       "fuel_price_per_litter": 39.29,
       "transport_id": 29,
-      "fare_amount": 103.59
+      "fare_amount": 3.45
     },
     {
       "route_id": 186,
@@ -3642,13 +3642,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 89,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 13.73,
       "fuel_price_per_litter": 17.75,
       "transport_id": 13,
-      "fare_amount": 309.07
+      "fare_amount": 10.3
     },
     {
       "route_id": 187,
@@ -3660,13 +3660,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 22,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 12.23,
       "fuel_price_per_litter": 18.59,
       "transport_id": 4,
-      "fare_amount": 899.83
+      "fare_amount": 29.99
     },
     {
       "route_id": 188,
@@ -3678,13 +3678,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 81,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 39.28,
       "fuel_price_per_litter": 38.64,
       "transport_id": 25,
-      "fare_amount": 1592
+      "fare_amount": 53.06
     },
     {
       "route_id": 189,
@@ -3696,13 +3696,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekday",
       "passenger_count": 1,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 24.15,
       "fuel_price_per_litter": 38.62,
       "transport_id": 8,
-      "fare_amount": 2054.06
+      "fare_amount": 68.46
     },
     {
       "route_id": 190,
@@ -3714,13 +3714,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 69,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 47.89,
       "fuel_price_per_litter": 23.68,
       "transport_id": 13,
-      "fare_amount": 323.68
+      "fare_amount": 10.78
     },
     {
       "route_id": 191,
@@ -3732,13 +3732,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 33,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 47.7,
       "fuel_price_per_litter": 9.11,
       "transport_id": 6,
-      "fare_amount": 902.83
+      "fare_amount": 30.09
     },
     {
       "route_id": 192,
@@ -3750,13 +3750,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekday",
       "passenger_count": 8,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 25.55,
       "fuel_price_per_litter": 5.37,
       "transport_id": 27,
-      "fare_amount": 231.72
+      "fare_amount": 7.72
     },
     {
       "route_id": 193,
@@ -3768,13 +3768,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 41,
-      "fare_amount_curency": "Bolivar",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 21.66,
       "fuel_price_per_litter": 10.44,
       "transport_id": 22,
-      "fare_amount": 279.33
+      "fare_amount": 9.31
     },
     {
       "route_id": 194,
@@ -3786,13 +3786,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 56,
-      "fare_amount_curency": "Pound",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 41.8,
       "fuel_price_per_litter": 14.28,
       "transport_id": 2,
-      "fare_amount": 498.09
+      "fare_amount": 16.6
     },
     {
       "route_id": 195,
@@ -3804,13 +3804,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 69,
-      "fare_amount_curency": "Ringgit",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 28.98,
       "fuel_price_per_litter": 7.93,
       "transport_id": 28,
-      "fare_amount": 118.44
+      "fare_amount": 3.94
     },
     {
       "route_id": 196,
@@ -3822,13 +3822,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 77,
-      "fare_amount_curency": "Naira",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 25.75,
       "fuel_price_per_litter": 30.88,
       "transport_id": 13,
-      "fare_amount": 318.12
+      "fare_amount": 10.6
     },
     {
       "route_id": 197,
@@ -3840,13 +3840,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekend",
       "passenger_count": 79,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 26.1,
       "fuel_price_per_litter": 53.86,
       "transport_id": 10,
-      "fare_amount": 861.8
+      "fare_amount": 28.72
     },
     {
       "route_id": 198,
@@ -3858,13 +3858,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 100,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 10.57,
       "fuel_price_per_litter": 58.39,
       "transport_id": 25,
-      "fare_amount": 671.24
+      "fare_amount": 22.37
     },
     {
       "route_id": 199,
@@ -3876,13 +3876,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 82,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 25.93,
       "fuel_price_per_litter": 40.15,
       "transport_id": 12,
-      "fare_amount": 1678.68
+      "fare_amount": 55.95
     },
     {
       "route_id": 200,
@@ -3894,13 +3894,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 13,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 14.24,
       "fuel_price_per_litter": 26.2,
       "transport_id": 9,
-      "fare_amount": 1161.28
+      "fare_amount": 38.7
     },
     {
       "route_id": 201,
@@ -3912,13 +3912,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 56,
-      "fare_amount_curency": "Shekel",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 19.89,
       "fuel_price_per_litter": 42.11,
       "transport_id": 22,
-      "fare_amount": 894.35
+      "fare_amount": 29.81
     },
     {
       "route_id": 202,
@@ -3930,13 +3930,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 24,
-      "fare_amount_curency": "Dong",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 11.07,
       "fuel_price_per_litter": 18.16,
       "transport_id": 12,
-      "fare_amount": 709.31
+      "fare_amount": 23.64
     },
     {
       "route_id": 203,
@@ -3948,13 +3948,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 83,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 32.21,
       "fuel_price_per_litter": 33.34,
       "transport_id": 21,
-      "fare_amount": 1256.62
+      "fare_amount": 41.88
     },
     {
       "route_id": 204,
@@ -3966,13 +3966,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 81,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 11.64,
       "fuel_price_per_litter": 51.65,
       "transport_id": 8,
-      "fare_amount": 1650.88
+      "fare_amount": 55.02
     },
     {
       "route_id": 205,
@@ -3984,13 +3984,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 84,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 11.62,
       "fuel_price_per_litter": 30.67,
       "transport_id": 25,
-      "fare_amount": 404.6
+      "fare_amount": 13.48
     },
     {
       "route_id": 206,
@@ -4002,13 +4002,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 5,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 29.92,
       "fuel_price_per_litter": 57.79,
       "transport_id": 6,
-      "fare_amount": 1635.74
+      "fare_amount": 54.52
     },
     {
       "route_id": 207,
@@ -4020,13 +4020,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 10,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 3.01,
       "fuel_price_per_litter": 55.49,
       "transport_id": 13,
-      "fare_amount": 307.81
+      "fare_amount": 10.26
     },
     {
       "route_id": 208,
@@ -4038,13 +4038,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 28,
-      "fare_amount_curency": "Rial",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 27.16,
       "fuel_price_per_litter": 43.71,
       "transport_id": 17,
-      "fare_amount": 581.17
+      "fare_amount": 19.37
     },
     {
       "route_id": 209,
@@ -4056,13 +4056,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 58,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 4.48,
       "fuel_price_per_litter": 24.05,
       "transport_id": 25,
-      "fare_amount": 150.4
+      "fare_amount": 5.01
     },
     {
       "route_id": 210,
@@ -4074,13 +4074,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekend",
       "passenger_count": 6,
-      "fare_amount_curency": "Hryvnia",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 11.7,
       "fuel_price_per_litter": 38.59,
       "transport_id": 10,
-      "fare_amount": 403.06
+      "fare_amount": 13.43
     },
     {
       "route_id": 211,
@@ -4092,13 +4092,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 38,
-      "fare_amount_curency": "Ruble",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 14.92,
       "fuel_price_per_litter": 26.32,
       "transport_id": 18,
-      "fare_amount": 1116.65
+      "fare_amount": 37.22
     },
     {
       "route_id": 212,
@@ -4110,13 +4110,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 83,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 36.6,
       "fuel_price_per_litter": 14.2,
       "transport_id": 17,
-      "fare_amount": 531.15
+      "fare_amount": 17.7
     },
     {
       "route_id": 213,
@@ -4128,13 +4128,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekend",
       "passenger_count": 97,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 42.44,
       "fuel_price_per_litter": 37.48,
       "transport_id": 12,
-      "fare_amount": 2312.83
+      "fare_amount": 77.09
     },
     {
       "route_id": 214,
@@ -4146,13 +4146,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 80,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 2.68,
       "fuel_price_per_litter": 43.06,
       "transport_id": 26,
-      "fare_amount": 122.78
+      "fare_amount": 4.09
     },
     {
       "route_id": 215,
@@ -4164,13 +4164,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekday",
       "passenger_count": 40,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 40.52,
       "fuel_price_per_litter": 58.41,
       "transport_id": 26,
-      "fare_amount": 257.11
+      "fare_amount": 8.57
     },
     {
       "route_id": 216,
@@ -4182,13 +4182,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 39,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 48.37,
       "fuel_price_per_litter": 28.37,
       "transport_id": 24,
-      "fare_amount": 745.48
+      "fare_amount": 24.84
     },
     {
       "route_id": 217,
@@ -4200,13 +4200,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 45,
-      "fare_amount_curency": "Yen",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 6.7,
       "fuel_price_per_litter": 24.94,
       "transport_id": 20,
-      "fare_amount": 428.28
+      "fare_amount": 14.27
     },
     {
       "route_id": 218,
@@ -4218,13 +4218,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 79,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 38.7,
       "fuel_price_per_litter": 5.66,
       "transport_id": 20,
-      "fare_amount": 472.32
+      "fare_amount": 15.74
     },
     {
       "route_id": 219,
@@ -4236,13 +4236,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 32,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 35.15,
       "fuel_price_per_litter": 14.65,
       "transport_id": 7,
-      "fare_amount": 1472.18
+      "fare_amount": 49.07
     },
     {
       "route_id": 220,
@@ -4254,13 +4254,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 17,
-      "fare_amount_curency": "Baht",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 15.88,
       "fuel_price_per_litter": 50.74,
       "transport_id": 18,
-      "fare_amount": 1254.44
+      "fare_amount": 41.81
     },
     {
       "route_id": 221,
@@ -4272,13 +4272,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 44,
-      "fare_amount_curency": "Dinar",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 33.17,
       "fuel_price_per_litter": 3.05,
       "transport_id": 29,
-      "fare_amount": 69.76
+      "fare_amount": 2.32
     },
     {
       "route_id": 222,
@@ -4290,13 +4290,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 67,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 19.39,
       "fuel_price_per_litter": 5.79,
       "transport_id": 19,
-      "fare_amount": 1314.71
+      "fare_amount": 43.82
     },
     {
       "route_id": 223,
@@ -4308,13 +4308,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 70,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 8.7,
       "fuel_price_per_litter": 5.78,
       "transport_id": 23,
-      "fare_amount": 553.12
+      "fare_amount": 18.43
     },
     {
       "route_id": 224,
@@ -4326,13 +4326,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekday",
       "passenger_count": 100,
-      "fare_amount_curency": "Won",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 11.86,
       "fuel_price_per_litter": 22.18,
       "transport_id": 1,
-      "fare_amount": 1235.45
+      "fare_amount": 41.18
     },
     {
       "route_id": 225,
@@ -4344,13 +4344,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 86,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 3.49,
       "fuel_price_per_litter": 12.6,
       "transport_id": 10,
-      "fare_amount": 207.15
+      "fare_amount": 6.9
     },
     {
       "route_id": 226,
@@ -4362,13 +4362,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 40,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 31.49,
       "fuel_price_per_litter": 51.47,
       "transport_id": 18,
-      "fare_amount": 1526.33
+      "fare_amount": 50.87
     },
     {
       "route_id": 227,
@@ -4380,13 +4380,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 37,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 22.17,
       "fuel_price_per_litter": 7.87,
       "transport_id": 5,
-      "fare_amount": 295.01
+      "fare_amount": 9.83
     },
     {
       "route_id": 228,
@@ -4398,13 +4398,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 36,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 16.07,
       "fuel_price_per_litter": 25.11,
       "transport_id": 27,
-      "fare_amount": 539.07
+      "fare_amount": 17.96
     },
     {
       "route_id": 229,
@@ -4416,13 +4416,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekend",
       "passenger_count": 75,
-      "fare_amount_curency": "Dong",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 43.54,
       "fuel_price_per_litter": 19.82,
       "transport_id": 25,
-      "fare_amount": 922.52
+      "fare_amount": 30.75
     },
     {
       "route_id": 230,
@@ -4434,13 +4434,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 87,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 14.08,
       "fuel_price_per_litter": 33.88,
       "transport_id": 9,
-      "fare_amount": 1263.49
+      "fare_amount": 42.11
     },
     {
       "route_id": 231,
@@ -4452,13 +4452,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 47,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 7.27,
       "fuel_price_per_litter": 59.88,
       "transport_id": 3,
-      "fare_amount": 1324.1
+      "fare_amount": 44.13
     },
     {
       "route_id": 232,
@@ -4470,13 +4470,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 95,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 31.8,
       "fuel_price_per_litter": 3.95,
       "transport_id": 6,
-      "fare_amount": 727.93
+      "fare_amount": 24.26
     },
     {
       "route_id": 233,
@@ -4488,13 +4488,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 87,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 43.02,
       "fuel_price_per_litter": 5.63,
       "transport_id": 24,
-      "fare_amount": 680.94
+      "fare_amount": 22.69
     },
     {
       "route_id": 234,
@@ -4506,13 +4506,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 33,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 42.61,
       "fuel_price_per_litter": 38.39,
       "transport_id": 9,
-      "fare_amount": 2402.92
+      "fare_amount": 80.09
     },
     {
       "route_id": 235,
@@ -4524,13 +4524,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 14,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 49.53,
       "fuel_price_per_litter": 30.38,
       "transport_id": 25,
-      "fare_amount": 1578.65
+      "fare_amount": 52.62
     },
     {
       "route_id": 236,
@@ -4542,13 +4542,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 24,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 8.41,
       "fuel_price_per_litter": 22.43,
       "transport_id": 1,
-      "fare_amount": 1161.12
+      "fare_amount": 38.7
     },
     {
       "route_id": 237,
@@ -4560,13 +4560,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekday",
       "passenger_count": 66,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 37.52,
       "fuel_price_per_litter": 34.2,
       "transport_id": 28,
-      "fare_amount": 569.87
+      "fare_amount": 18.99
     },
     {
       "route_id": 238,
@@ -4578,13 +4578,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 59,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 10.01,
       "fuel_price_per_litter": 35.44,
       "transport_id": 3,
-      "fare_amount": 1223.69
+      "fare_amount": 40.78
     },
     {
       "route_id": 239,
@@ -4596,13 +4596,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 53,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 15.22,
       "fuel_price_per_litter": 53.04,
       "transport_id": 15,
-      "fare_amount": 1666.37
+      "fare_amount": 55.54
     },
     {
       "route_id": 240,
@@ -4614,13 +4614,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekend",
       "passenger_count": 66,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 23.17,
       "fuel_price_per_litter": 29.37,
       "transport_id": 26,
-      "fare_amount": 156.49
+      "fare_amount": 5.21
     },
     {
       "route_id": 241,
@@ -4632,13 +4632,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 35,
-      "fare_amount_curency": "Kwanza",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 7.91,
       "fuel_price_per_litter": 26.54,
       "transport_id": 22,
-      "fare_amount": 263.03
+      "fare_amount": 8.76
     },
     {
       "route_id": 242,
@@ -4650,13 +4650,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 32,
-      "fare_amount_curency": "Boliviano",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 36.66,
       "fuel_price_per_litter": 50.57,
       "transport_id": 21,
-      "fare_amount": 1472.24
+      "fare_amount": 49.07
     },
     {
       "route_id": 243,
@@ -4668,13 +4668,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekday",
       "passenger_count": 57,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 22.7,
       "fuel_price_per_litter": 49.87,
       "transport_id": 2,
-      "fare_amount": 875.37
+      "fare_amount": 29.17
     },
     {
       "route_id": 244,
@@ -4686,13 +4686,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 51,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 45.32,
       "fuel_price_per_litter": 58.21,
       "transport_id": 7,
-      "fare_amount": 3181.57
+      "fare_amount": 106.05
     },
     {
       "route_id": 245,
@@ -4704,13 +4704,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 84,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 37.43,
       "fuel_price_per_litter": 10.25,
       "transport_id": 1,
-      "fare_amount": 1355.9
+      "fare_amount": 45.19
     },
     {
       "route_id": 246,
@@ -4722,13 +4722,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 62,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 49.31,
       "fuel_price_per_litter": 29.39,
       "transport_id": 4,
-      "fare_amount": 2109.98
+      "fare_amount": 70.33
     },
     {
       "route_id": 247,
@@ -4740,13 +4740,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekend",
       "passenger_count": 32,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 44.89,
       "fuel_price_per_litter": 38.51,
       "transport_id": 29,
-      "fare_amount": 868.15
+      "fare_amount": 28.93
     },
     {
       "route_id": 248,
@@ -4758,13 +4758,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekday",
       "passenger_count": 80,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 37.24,
       "fuel_price_per_litter": 51,
       "transport_id": 23,
-      "fare_amount": 1423.34
+      "fare_amount": 47.44
     },
     {
       "route_id": 249,
@@ -4776,13 +4776,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 4,
-      "fare_amount_curency": "Franc",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 37.49,
       "fuel_price_per_litter": 28.17,
       "transport_id": 29,
-      "fare_amount": 538.2
+      "fare_amount": 17.94
     },
     {
       "route_id": 250,
@@ -4794,13 +4794,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 65,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 43.9,
       "fuel_price_per_litter": 35.22,
       "transport_id": 14,
-      "fare_amount": 1720.37
+      "fare_amount": 57.34
     },
     {
       "route_id": 251,
@@ -4812,13 +4812,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 22,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 16.49,
       "fuel_price_per_litter": 1.62,
       "transport_id": 9,
-      "fare_amount": 820.69
+      "fare_amount": 27.35
     },
     {
       "route_id": 252,
@@ -4830,13 +4830,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 13,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 43.88,
       "fuel_price_per_litter": 47.86,
       "transport_id": 28,
-      "fare_amount": 919.96
+      "fare_amount": 30.66
     },
     {
       "route_id": 253,
@@ -4848,13 +4848,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekday",
       "passenger_count": 1,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 38.49,
       "fuel_price_per_litter": 22.59,
       "transport_id": 3,
-      "fare_amount": 1865.2
+      "fare_amount": 62.17
     },
     {
       "route_id": 254,
@@ -4866,13 +4866,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 61,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 2.18,
       "fuel_price_per_litter": 11.16,
       "transport_id": 26,
-      "fare_amount": 117.34
+      "fare_amount": 3.91
     },
     {
       "route_id": 255,
@@ -4884,13 +4884,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 76,
-      "fare_amount_curency": "Krona",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 31.78,
       "fuel_price_per_litter": 41.37,
       "transport_id": 29,
-      "fare_amount": 665.07
+      "fare_amount": 22.16
     },
     {
       "route_id": 256,
@@ -4902,13 +4902,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 55,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 8.84,
       "fuel_price_per_litter": 22.64,
       "transport_id": 28,
-      "fare_amount": 105.72
+      "fare_amount": 3.52
     },
     {
       "route_id": 257,
@@ -4920,13 +4920,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 10,
-      "fare_amount_curency": "Pound",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 11.45,
       "fuel_price_per_litter": 20.67,
       "transport_id": 30,
-      "fare_amount": 1120.41
+      "fare_amount": 37.34
     },
     {
       "route_id": 258,
@@ -4938,13 +4938,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekend",
       "passenger_count": 76,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 45.52,
       "fuel_price_per_litter": 18.42,
       "transport_id": 27,
-      "fare_amount": 1041.06
+      "fare_amount": 34.7
     },
     {
       "route_id": 259,
@@ -4956,13 +4956,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekend",
       "passenger_count": 100,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 22.05,
       "fuel_price_per_litter": 39.54,
       "transport_id": 2,
-      "fare_amount": 691.93
+      "fare_amount": 23.06
     },
     {
       "route_id": 260,
@@ -4974,13 +4974,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 46,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 6.93,
       "fuel_price_per_litter": 49.08,
       "transport_id": 7,
-      "fare_amount": 1331.42
+      "fare_amount": 44.38
     },
     {
       "route_id": 261,
@@ -4992,13 +4992,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 35,
-      "fare_amount_curency": "Lempira",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 21.27,
       "fuel_price_per_litter": 26.03,
       "transport_id": 3,
-      "fare_amount": 1471.58
+      "fare_amount": 49.05
     },
     {
       "route_id": 262,
@@ -5010,13 +5010,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekday",
       "passenger_count": 98,
-      "fare_amount_curency": "Pound",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 43.87,
       "fuel_price_per_litter": 6.81,
       "transport_id": 24,
-      "fare_amount": 684.17
+      "fare_amount": 22.8
     },
     {
       "route_id": 263,
@@ -5028,13 +5028,13 @@
       "day_of_week": "Friday",
       "day_type": "Weekend",
       "passenger_count": 33,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 39.76,
       "fuel_price_per_litter": 13.5,
       "transport_id": 1,
-      "fare_amount": 1508.8
+      "fare_amount": 50.29
     },
     {
       "route_id": 264,
@@ -5046,13 +5046,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 54,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 3.06,
       "fuel_price_per_litter": 4.39,
       "transport_id": 3,
-      "fare_amount": 798.3
+      "fare_amount": 26.61
     },
     {
       "route_id": 265,
@@ -5064,13 +5064,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 8,
-      "fare_amount_curency": "Real",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 28.16,
       "fuel_price_per_litter": 44.69,
       "transport_id": 16,
-      "fare_amount": 1021.66
+      "fare_amount": 34.05
     },
     {
       "route_id": 266,
@@ -5082,13 +5082,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 85,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 30.87,
       "fuel_price_per_litter": 17.7,
       "transport_id": 30,
-      "fare_amount": 1490.79
+      "fare_amount": 49.69
     },
     {
       "route_id": 267,
@@ -5100,13 +5100,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 80,
-      "fare_amount_curency": "Quetzal",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 34.65,
       "fuel_price_per_litter": 24.68,
       "transport_id": 16,
-      "fare_amount": 945.18
+      "fare_amount": 31.5
     },
     {
       "route_id": 268,
@@ -5118,13 +5118,13 @@
       "day_of_week": "Friday",
       "day_type": "Holiday",
       "passenger_count": 63,
-      "fare_amount_curency": "Krona",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 4.92,
       "fuel_price_per_litter": 19.02,
       "transport_id": 12,
-      "fare_amount": 585.32
+      "fare_amount": 19.51
     },
     {
       "route_id": 269,
@@ -5136,13 +5136,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 12,
-      "fare_amount_curency": "Rand",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Medium",
       "route_distance": 21.24,
       "fuel_price_per_litter": 46.83,
       "transport_id": 25,
-      "fare_amount": 1057.18
+      "fare_amount": 35.23
     },
     {
       "route_id": 270,
@@ -5154,13 +5154,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 62,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 20.4,
       "fuel_price_per_litter": 59.1,
       "transport_id": 16,
-      "fare_amount": 1011.64
+      "fare_amount": 33.72
     },
     {
       "route_id": 271,
@@ -5172,13 +5172,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekend",
       "passenger_count": 89,
-      "fare_amount_curency": "Pound",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 35.5,
       "fuel_price_per_litter": 40.01,
       "transport_id": 4,
-      "fare_amount": 2081.39
+      "fare_amount": 69.37
     },
     {
       "route_id": 272,
@@ -5190,13 +5190,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 15,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 44.27,
       "fuel_price_per_litter": 38.52,
       "transport_id": 20,
-      "fare_amount": 1732.42
+      "fare_amount": 57.74
     },
     {
       "route_id": 273,
@@ -5208,13 +5208,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekday",
       "passenger_count": 57,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 38.15,
       "fuel_price_per_litter": 34.29,
       "transport_id": 12,
-      "fare_amount": 1986.86
+      "fare_amount": 66.22
     },
     {
       "route_id": 274,
@@ -5226,13 +5226,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 6,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 29.78,
       "fuel_price_per_litter": 31.01,
       "transport_id": 29,
-      "fare_amount": 473.14
+      "fare_amount": 15.77
     },
     {
       "route_id": 275,
@@ -5244,13 +5244,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 86,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 49.09,
       "fuel_price_per_litter": 22.08,
       "transport_id": 24,
-      "fare_amount": 729.01
+      "fare_amount": 24.3
     },
     {
       "route_id": 276,
@@ -5262,13 +5262,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekday",
       "passenger_count": 9,
-      "fare_amount_curency": "Boliviano",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 9.53,
       "fuel_price_per_litter": 21.41,
       "transport_id": 22,
-      "fare_amount": 257.1
+      "fare_amount": 8.57
     },
     {
       "route_id": 277,
@@ -5280,13 +5280,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 82,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 13.82,
       "fuel_price_per_litter": 50.45,
       "transport_id": 19,
-      "fare_amount": 1991.99
+      "fare_amount": 66.39
     },
     {
       "route_id": 278,
@@ -5298,13 +5298,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 13,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 23.68,
       "fuel_price_per_litter": 59.77,
       "transport_id": 30,
-      "fare_amount": 2529.92
+      "fare_amount": 84.33
     },
     {
       "route_id": 279,
@@ -5316,13 +5316,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 19,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 25.36,
       "fuel_price_per_litter": 11.04,
       "transport_id": 26,
-      "fare_amount": 132.59
+      "fare_amount": 4.41
     },
     {
       "route_id": 280,
@@ -5334,13 +5334,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Weekend",
       "passenger_count": 46,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 32.9,
       "fuel_price_per_litter": 57.97,
       "transport_id": 23,
-      "fare_amount": 1427.1
+      "fare_amount": 47.57
     },
     {
       "route_id": 281,
@@ -5352,13 +5352,13 @@
       "day_of_week": "Saturday",
       "day_type": "Holiday",
       "passenger_count": 80,
-      "fare_amount_curency": "Franc",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 17.73,
       "fuel_price_per_litter": 59.78,
       "transport_id": 18,
-      "fare_amount": 1339.22
+      "fare_amount": 44.64
     },
     {
       "route_id": 282,
@@ -5370,13 +5370,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekend",
       "passenger_count": 8,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 42.21,
       "fuel_price_per_litter": 59.37,
       "transport_id": 25,
-      "fare_amount": 2602.35
+      "fare_amount": 86.74
     },
     {
       "route_id": 283,
@@ -5388,13 +5388,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekday",
       "passenger_count": 79,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Medium",
       "route_distance": 27.17,
       "fuel_price_per_litter": 35.9,
       "transport_id": 7,
-      "fare_amount": 1842.91
+      "fare_amount": 61.43
     },
     {
       "route_id": 284,
@@ -5406,13 +5406,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 89,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "Light",
       "route_distance": 0.6,
       "fuel_price_per_litter": 53.81,
       "transport_id": 23,
-      "fare_amount": 544.64
+      "fare_amount": 18.15
     },
     {
       "route_id": 285,
@@ -5424,13 +5424,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekday",
       "passenger_count": 39,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "Light",
       "route_distance": 31.14,
       "fuel_price_per_litter": 34.67,
       "transport_id": 6,
-      "fare_amount": 1268.05
+      "fare_amount": 42.26
     },
     {
       "route_id": 286,
@@ -5442,13 +5442,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 33,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 40.07,
       "fuel_price_per_litter": 1.84,
       "transport_id": 11,
-      "fare_amount": 602.65
+      "fare_amount": 20.08
     },
     {
       "route_id": 287,
@@ -5460,13 +5460,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 33,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "High",
       "route_distance": 25.85,
       "fuel_price_per_litter": 4.3,
       "transport_id": 16,
-      "fare_amount": 804.1
+      "fare_amount": 26.8
     },
     {
       "route_id": 288,
@@ -5478,13 +5478,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekend",
       "passenger_count": 5,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 23.9,
       "fuel_price_per_litter": 26.82,
       "transport_id": 18,
-      "fare_amount": 1199.48
+      "fare_amount": 39.98
     },
     {
       "route_id": 289,
@@ -5496,13 +5496,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 94,
-      "fare_amount_curency": "Dollar",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 25.39,
       "fuel_price_per_litter": 34.74,
       "transport_id": 6,
-      "fare_amount": 1156.19
+      "fare_amount": 38.53
     },
     {
       "route_id": 290,
@@ -5514,13 +5514,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekend",
       "passenger_count": 46,
-      "fare_amount_curency": "Hryvnia",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 20.65,
       "fuel_price_per_litter": 54.85,
       "transport_id": 8,
-      "fare_amount": 2297.31
+      "fare_amount": 76.57
     },
     {
       "route_id": 291,
@@ -5532,13 +5532,13 @@
       "day_of_week": "Monday",
       "day_type": "Weekend",
       "passenger_count": 14,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "High",
       "route_distance": 30.13,
       "fuel_price_per_litter": 21.1,
       "transport_id": 19,
-      "fare_amount": 1920.81
+      "fare_amount": 64.02
     },
     {
       "route_id": 292,
@@ -5550,13 +5550,13 @@
       "day_of_week": "Wednesday",
       "day_type": "Holiday",
       "passenger_count": 46,
-      "fare_amount_curency": "Euro",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 7.53,
       "fuel_price_per_litter": 41.29,
       "transport_id": 13,
-      "fare_amount": 310.17
+      "fare_amount": 10.33
     },
     {
       "route_id": 293,
@@ -5568,13 +5568,13 @@
       "day_of_week": "Saturday",
       "day_type": "Weekend",
       "passenger_count": 30,
-      "fare_amount_curency": "Franc",
+      "fare_amount_curency": "$",
       "weather_condition": "Clear",
       "traffic_condition": "High",
       "route_distance": 35.42,
       "fuel_price_per_litter": 15.13,
       "transport_id": 11,
-      "fare_amount": 1078.34
+      "fare_amount": 35.94
     },
     {
       "route_id": 294,
@@ -5586,13 +5586,13 @@
       "day_of_week": "Monday",
       "day_type": "Holiday",
       "passenger_count": 54,
-      "fare_amount_curency": "Zloty",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Light",
       "route_distance": 22.9,
       "fuel_price_per_litter": 14.59,
       "transport_id": 27,
-      "fare_amount": 458.97
+      "fare_amount": 15.29
     },
     {
       "route_id": 295,
@@ -5604,13 +5604,13 @@
       "day_of_week": "Sunday",
       "day_type": "Weekday",
       "passenger_count": 44,
-      "fare_amount_curency": "Rupee",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 3.2,
       "fuel_price_per_litter": 33.71,
       "transport_id": 6,
-      "fare_amount": 717.88
+      "fare_amount": 23.92
     },
     {
       "route_id": 296,
@@ -5622,13 +5622,13 @@
       "day_of_week": "Thursday",
       "day_type": "Weekday",
       "passenger_count": 74,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Light",
       "route_distance": 44.74,
       "fuel_price_per_litter": 51.95,
       "transport_id": 28,
-      "fare_amount": 1016.02
+      "fare_amount": 33.86
     },
     {
       "route_id": 297,
@@ -5640,13 +5640,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Weekday",
       "passenger_count": 37,
-      "fare_amount_curency": "Yuan Renminbi",
+      "fare_amount_curency": "$",
       "weather_condition": "Rain",
       "traffic_condition": "High",
       "route_distance": 40.73,
       "fuel_price_per_litter": 11.87,
       "transport_id": 5,
-      "fare_amount": 470.04
+      "fare_amount": 15.66
     },
     {
       "route_id": 298,
@@ -5658,13 +5658,13 @@
       "day_of_week": "Thursday",
       "day_type": "Holiday",
       "passenger_count": 36,
-      "fare_amount_curency": "Rupiah",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 15.77,
       "fuel_price_per_litter": 42.01,
       "transport_id": 24,
-      "fare_amount": 704.95
+      "fare_amount": 23.49
     },
     {
       "route_id": 299,
@@ -5676,13 +5676,13 @@
       "day_of_week": "Tuesday",
       "day_type": "Holiday",
       "passenger_count": 91,
-      "fare_amount_curency": "Peso",
+      "fare_amount_curency": "$",
       "weather_condition": "Snow",
       "traffic_condition": "Medium",
       "route_distance": 10.64,
       "fuel_price_per_litter": 33.45,
       "transport_id": 23,
-      "fare_amount": 696.96
+      "fare_amount": 23.23
     },
     {
       "route_id": 300,
@@ -5694,13 +5694,13 @@
       "day_of_week": "Sunday",
       "day_type": "Holiday",
       "passenger_count": 38,
-      "fare_amount_curency": "Shilling",
+      "fare_amount_curency": "$",
       "weather_condition": "Fog",
       "traffic_condition": "Medium",
       "route_distance": 43.16,
       "fuel_price_per_litter": 9.26,
       "transport_id": 10,
-      "fare_amount": 378.14
+      "fare_amount": 12.6
     }
   ]
 }
