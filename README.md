@@ -13,7 +13,7 @@ This project is a server-side application built with Node.js and Express. It pro
 
 1. Clone the repository:
    ```sh
-   git clone [<repository-url>](https://github.com/TiMur-know/server-app-diploma.git)
+   git clone https://github.com/TiMur-know/server-app-diploma.git
    ```
 2. Navigate to the project directory:
    ```sh
